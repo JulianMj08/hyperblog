@@ -1,12 +1,29 @@
 body
 {
-    color: aquamarine;
+    color: rgb(2, 20, 16);
     text-align: center;
     font-family: 'arial';
     font-size: 16px;
     margin: 0;
     padding: 0;
     background-color: cornflowerblue;
+}
+
+#cabecera
+{
+    background-color: brown;
+    color:azure;
+    box-shadow: 29px 17px 5px 0px rgba(0,0,0,0.75);
+    font-weight: bold;
+    margin: 0;
+    padding: o.5em;
+}
+
+#cabecera #tagline
+{
+    margin: 0 0 0 0;
+    font-weight: normal;
+    font-size: 0.8em;
 }
 
 #container
